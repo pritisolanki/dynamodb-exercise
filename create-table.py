@@ -1,6 +1,6 @@
-'''
-This python script is creating a dynamodb table 
-'''
+# AWS Dynamodb : Exploring boto3 capabilities
+# create-table is a python script to create "movie" table in dynamodb using boto3 library
+
 import boto3
 import logging
 
